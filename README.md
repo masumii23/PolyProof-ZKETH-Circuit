@@ -181,7 +181,7 @@ npx hardhat newcircuit --name newcircuit
 3. Complete the verification.
 
 ## Authors
-Mannat Gupta
+Masumi Gupta
 
 ## License
 
